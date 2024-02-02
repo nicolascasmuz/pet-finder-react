@@ -1,0 +1,5 @@
+- averiguar qué es outlet de react-router-dom
+- averiguar qué es reportWebVitals
+- ver videos de jonmircha sobre createBrowserRouter, RouterProvider, React.StrictMode...
+- solucionar el problema del favicon
+- averiguar sobre RecoilRoot
